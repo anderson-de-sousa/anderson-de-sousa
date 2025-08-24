@@ -6,24 +6,13 @@
 Here are some ideas to get you started:
  -->
 🔭 I'm Teach Lead. Currently leading two squads responsible for the cart and checkout modules of an e-commerce platform. I focus on solving critical bugs, optimizing performance, and ensuring smooth squad integration using tools like JIRA, Confluence and Businessmap. I also apply prompt engineering techniques to accelerate problem-solving with AI.
-
 &nbsp;
-
 🌱 At the moment, I'm specializing in Cloud through a Multi-Cloud Bootcamp (The Cloud Bootcamp School and Devops PRO), focusing on AWS, Microsoft Azure, Google Cloud Platform (GCP), Oracle Cloud Infrastructure (OCI), and tools aligned with the DevOps (Terraform, Kubernetes, Ansible, Docker, GitHub, Gitlab, Jenkins and Python) culture and System Design.
-
 &nbsp;
-
 💬 I believe this: "We are not students of some subject matter, but students of problems. And problems may cut right across the borders of any subject matter or discipline." - Karl Popper.
-
 &nbsp;
-
-📫 How to reach me:
-<div>
-<a href="https://www.linkedin.com/in/anderson-de-sousa/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-</div>
-
+📫 How to reach me:<div><a href="https://www.linkedin.com/in/anderson-de-sousa/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a></div>
 &nbsp;
-
 ⚡ Language & Tools: 
  <div>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40"/>
@@ -41,9 +30,7 @@ Here are some ideas to get you started:
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" width="40" height="40"/>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" width="40" height="40"/>
  </div>
-
 &nbsp;
-
 🚀 Stats!
  <div>
  <a href="https://github.com/anderson-de-sousa">
