@@ -7,13 +7,15 @@ Here are some ideas to get you started:
  -->
 🔭 I'm Teach Lead. Currently leading two squads responsible for the cart and checkout modules of an e-commerce platform. I focus on solving critical bugs, optimizing performance, and ensuring smooth squad integration using tools like JIRA, Confluence and Businessmap. I also apply prompt engineering techniques to accelerate problem-solving with AI.
 
+&nbsp;
+
 🌱 At the moment, I'm specializing in Cloud through a Multi-Cloud Bootcamp (The Cloud Bootcamp School and Devops PRO), focusing on AWS, Microsoft Azure, Google Cloud Platform (GCP), Oracle Cloud Infrastructure (OCI), and tools aligned with the DevOps (Terraform, Kubernetes, Ansible, Docker, GitHub, Gitlab, Jenkins and Python) culture and System Design.
-<!--
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
- -->
+
+&nbsp;
 
 💬 I believe this: "We are not students of some subject matter, but students of problems. And problems may cut right across the borders of any subject matter or discipline." - Karl Popper.
+
+&nbsp;
 
 📫 How to reach me:
 <div>
