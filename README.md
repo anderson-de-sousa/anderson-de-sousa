@@ -24,14 +24,16 @@ I believe this: "We are not students of some subject matter, but students of pro
 - 🚀 Statis!
 <div>
 <a href="https://github.com/anderson-de-sousa">
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
-ttps://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anderson-de-sousa&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=anderson-de-sousa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=anderson-de-sousa&show_icons=true&theme=radical"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=anderson-de-sousa&show_icons=true"/>
+ttps://github-readme-stats.vercel.app/api?username=anderson-de-sousa&show_icons=true&theme=radical"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=anderson-de-sousa&hide=contribs,prs"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=anderson-de-sousa&show_icons=true&theme=radical"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=anderson-de-sousa&show_icons=true&theme=transparent"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=anderson-de-sousa&show_icons=true&theme=dark#gh-dark-mode-only"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=anderson-de-sousa&show_icons=true&theme=default#gh-light-mode-only"/>
 
 </div>
 
