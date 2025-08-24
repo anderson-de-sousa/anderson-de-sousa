@@ -25,6 +25,7 @@ I believe this: "We are not students of some subject matter, but students of pro
 <div>
 <a href="https://github.com/anderson-de-sousa">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anderson-de-sousa&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=anderson-de-sousa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=anderson-de-sousa&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage"/>
+
 </div>
 
