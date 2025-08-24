@@ -26,14 +26,6 @@ I believe this: "We are not students of some subject matter, but students of pro
 <a href="https://github.com/anderson-de-sousa">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anderson-de-sousa&layout=compact&langs_count=7&theme=dracula"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=anderson-de-sousa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=anderson-de-sousa&show_icons=true&theme=radical"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=anderson-de-sousa&show_icons=true"/>
-ttps://github-readme-stats.vercel.app/api?username=anderson-de-sousa&show_icons=true&theme=radical"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=anderson-de-sousa&hide=contribs,prs"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=anderson-de-sousa&show_icons=true&theme=radical"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=anderson-de-sousa&show_icons=true&theme=transparent"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=anderson-de-sousa&show_icons=true&theme=dark#gh-dark-mode-only"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=anderson-de-sousa&show_icons=true&theme=default#gh-light-mode-only"/>
-
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=anderson-de-sousa&show_icons=true&theme=dracula"/>
 </div>
 
