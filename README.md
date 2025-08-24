@@ -1,6 +1,6 @@
 ## Hi there, My name is Anderson! 👋
 
-<!--
+
 **anderson-de-sousa/anderson-de-sousa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -18,4 +18,4 @@ I believe this: "We are not students of some subject matter, but students of pro
 
 - 📫 How to reach me: ...
 - ⚡ Fun fact: ...
--->
+<!-- -->
