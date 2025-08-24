@@ -14,8 +14,10 @@ Here are some ideas to get you started:
 💬 I believe this: "We are not students of some subject matter, but students of problems. And problems may cut right across the borders of any subject matter or discipline." - Karl Popper.
 &nbsp;
 
-📫 How to reach me:<div><a href="https://www.linkedin.com/in/anderson-de-sousa/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a></div>
+📫 How to reach me:<div><a href="https://www.linkedin.com/in/anderson-de-sousa/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
 &nbsp;
+
 ⚡ Language & Tools: 
  <div>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40"/>
