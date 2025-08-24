@@ -15,10 +15,12 @@ Here are some ideas to get you started:
 
 💬 I believe this: "We are not students of some subject matter, but students of problems. And problems may cut right across the borders of any subject matter or discipline." - Karl Popper.
 
-📫 How to reach me: ...
+📫 How to reach me:
 <div>
 <a href="https://www.linkedin.com/in/anderson-de-sousa/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
+
+&nbsp;
 
 ⚡ Language & Tools: 
  <div>
@@ -38,8 +40,9 @@ Here are some ideas to get you started:
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" width="40" height="40"/>
  </div>
 
+&nbsp;
 
-- 🚀 Stats!
+🚀 Stats!
  <div>
  <a href="https://github.com/anderson-de-sousa">
   <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anderson-de-sousa&layout=compact&langs_count=7&theme=dracula"/>
